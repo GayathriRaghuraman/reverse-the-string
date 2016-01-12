@@ -1,5 +1,4 @@
 # reverse-the-string
-#include<stdio.h>
 void main()
 {
 char in[20],i,out;
